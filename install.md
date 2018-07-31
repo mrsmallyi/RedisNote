@@ -72,4 +72,4 @@ Redis可执行文件说明
 redis-server
 ```
 
-!(redis-server)[images/1/20180731204401.png]
+![redis-server](images/1/20180731204401.png)
